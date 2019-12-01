@@ -34,3 +34,6 @@ This problem was solved using Gurobi (https://www.gurobi.com/). It is an optimiz
 This model is proven to work and no future development is needed. 
 However, if you have any questions about it feel free to raise an issue and I will answer your question. 
 I can not help you with installing Gurobi, it can be a bit messy but just power through! 
+
+## License
+GPLv3
