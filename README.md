@@ -29,3 +29,8 @@ The tuple is needed for the model and then it solves the problem, and saves the 
 
 ### Dependencies
 This problem was solved using Gurobi (https://www.gurobi.com/). It is an optimization solver. It is free for academic use. 
+
+## Future
+This model is proven to work and no future development is needed. 
+However, if you have any questions about it feel free to raise an issue and I will answer your question. 
+I can not help you with installing Gurobi, it can be a bit messy but just power through! 
